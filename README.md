@@ -1,5 +1,9 @@
-## Sup
-
+<p align="center">
+  <img src="intro_gif.gif" />
+</p>
+<h2 align="center">
+  Welcome to my GitHub
+</h2>
 I'm Kevin.
 
 <!--
