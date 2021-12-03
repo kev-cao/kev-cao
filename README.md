@@ -5,7 +5,16 @@
 
 I'm **Kevin Cao** and I'm a software engineer.
 
-### 🔧 Technologies and Tools
+## 👤 About Me
+I like making things. That pretty much drives me to learn programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
+
+I also enjoy teaching a lot, and taught as an undergraduate instructor for most of my undergrad -- you can find my teaching material in the blog posts on my website, and also my YouTube channel. 
+
+I am a big fan of anime, but that's something you're not supposed to tell other people until you're sure they enjoy anime too.
+
+---
+
+## 🔧 Technologies and Tools
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
@@ -20,26 +29,24 @@ I'm **Kevin Cao** and I'm a software engineer.
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f16529)](https://en.wikipedia.org/wiki/HTML)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2965f1)](https://en.wikipedia.org/wiki/CSS)
 
-### 📚 Education
+---
+
+## 📚 Education
 - Master's in CS from University of Chicago
 - Bachelor's in CS from Indiana University
 
-## About Me
-I like making things. That pretty much drives me to learn programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
+---
 
-I also enjoy teaching a lot, and taught as an undergraduate instructor for most of my undergrad -- you can find my teaching material in the blog posts on my website, and also my YouTube channel. 
-
-I am a big fan of anime, but that's something you're not supposed to tell other people until you're sure they enjoy anime too.
-
-## How to Reach Me
+## 💻 How to Reach Me
 [![](https://img.shields.io/badge/Website-defCoding-informational?style=flat&logo=youtube&logoColor=54ace3&color=54ace3)](https://defcoding.github.io)
 [![](https://img.shields.io/badge/YouTube-defCoding-informational?style=flat&logo=youtube&logoColor=FF0000&color=FF0000)](https://www.youtube.com/channel/UCLic-4S1Ym0eyJzpI1Eqlsw)
 [![](https://img.shields.io/badge/Twitter-defCoding-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=1DA1F2)](https://twitter.com/defCoding)
 [![](https://img.shields.io/badge/Email-defCoding-informational?style=flat&logo=Gmail&logoColor=EA4335&color=EA4335)](mailto:defcoding@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-cao--kevin-informational?style=flat&logo=LinkedIn&logoColor=0270ad&color=0270ad)](https://linkedin.com/cao-kevin)
 
+---
 
-## Github Stats
+## :octocat: Github Stats
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=defcoding&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defcoding&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
