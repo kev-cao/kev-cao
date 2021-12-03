@@ -12,7 +12,7 @@ I also enjoy teaching a lot, and taught as an undergraduate instructor for most 
 
 I am a big fan of anime, but that's something you're not supposed to tell other people until you're sure they enjoy anime too.
 
----
+&nbsp;
 
 ## 🔧 Technologies and Tools
 
@@ -29,13 +29,13 @@ I am a big fan of anime, but that's something you're not supposed to tell other 
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f16529)](https://en.wikipedia.org/wiki/HTML)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2965f1)](https://en.wikipedia.org/wiki/CSS)
 
----
+&nbsp;
 
 ## 📚 Education
 - Master's in CS from University of Chicago
 - Bachelor's in CS from Indiana University
 
----
+&nbsp;
 
 ## 💻 How to Reach Me
 [![](https://img.shields.io/badge/Website-defCoding-informational?style=flat&logo=youtube&logoColor=54ace3&color=54ace3)](https://defcoding.github.io)
@@ -44,7 +44,7 @@ I am a big fan of anime, but that's something you're not supposed to tell other 
 [![](https://img.shields.io/badge/Email-defCoding-informational?style=flat&logo=Gmail&logoColor=EA4335&color=EA4335)](mailto:defcoding@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-cao--kevin-informational?style=flat&logo=LinkedIn&logoColor=0270ad&color=0270ad)](https://linkedin.com/cao-kevin)
 
----
+&nbsp;
 
 ## :octocat: Github Stats
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=defcoding&count_private=true)
