@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="intro_gif.gif" />
-</p>
-<h2 align="center">
-  Welcome to my GitHub
-</h2>
-I'm Kevin.
+## Welcome to my GitHub
+
+<img align="right" src="intro_gif.gif" />
+I'm Kevin Cao and I'm a software engineer.
+
+I'm currently studying for my Masters in CS from the University of Chicago, and I received my Bachelor's in CS from Indiana University, with a specialization in Software Engineering.
 
 <!--
 **defCoding/DefCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
