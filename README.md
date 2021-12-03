@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="intro_gif.gif" />
+</p>
 <h1 align="center">Welcome to my GitHub</h1>
-<img src="intro_gif.gif" align="right" />
 
 I'm **Kevin Cao** and I'm a software engineer.
 
