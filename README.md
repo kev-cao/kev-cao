@@ -23,9 +23,9 @@ I'm **Kevin Cao** and I'm a software engineer.
 - Bachelor's in CS from Indiana University
 
 ## About Me
-I like making things. That's pretty much drives me to learn programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
+I like making things. That pretty much drives me to learn programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
 
-I also enjoy teaching a lot, and taught as a undergraduate instructor for most of my undergrad -- you can find my teaching material in the blog posts on my website, and also my YouTube channel. 
+I also enjoy teaching a lot, and taught as an undergraduate instructor for most of my undergrad -- you can find my teaching material in the blog posts on my website, and also my YouTube channel. 
 
 I am a big fan of anime, but that's something you're not supposed to tell other people until you're sure they enjoy anime too.
 
