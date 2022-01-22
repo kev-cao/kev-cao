@@ -6,7 +6,7 @@
 I'm **Kevin Cao** and I'm a software engineer.
 
 ## 👤 About Me
-I like making things. That pretty much drives me to learn programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
+I like making things. That pretty much is what drives me to do programming. Scripts, robots, games, programs that invest in Dogecoin whenever Elon tweets about it, etc. Software engineering is the best outlet for me to let loose and make whatever wacky idea comes to mind. 
 
 I also enjoy teaching a lot, and taught as an undergraduate instructor for most of my undergrad -- you can find my teaching material in the blog posts on my website, and also my YouTube channel. 
 
