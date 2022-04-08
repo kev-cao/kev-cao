@@ -24,6 +24,7 @@ I am a big fan of anime, but that's something you're not supposed to tell other 
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3470a2)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ed7e18)](https://www.java.com/)
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=659bd3)](https://www.cplusplus.com/)
+[![](https://img.shields.io/badge/Code-Swift-%23ff6931?logo=Swift)](https://developer.apple.com/swift/)
 [![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=964d92)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=5b4d82)](https://www.haskell.org/)
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f16529)](https://en.wikipedia.org/wiki/HTML)
