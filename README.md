@@ -39,17 +39,16 @@ I am a big fan of anime, but that's something you're not supposed to tell other 
 &nbsp;
 
 ## 💻 How to Reach Me
-[![](https://img.shields.io/badge/Website-defCoding-informational?style=flat&logo=youtube&logoColor=54ace3&color=54ace3)](https://defcoding.github.io)
+[![](https://img.shields.io/badge/Website-defCoding-informational?style=flat&logo=youtube&logoColor=54ace3&color=54ace3)](https://kev-cao.github.io)
 [![](https://img.shields.io/badge/YouTube-defCoding-informational?style=flat&logo=youtube&logoColor=FF0000&color=FF0000)](https://www.youtube.com/channel/UCLic-4S1Ym0eyJzpI1Eqlsw)
-[![](https://img.shields.io/badge/Twitter-defCoding-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=1DA1F2)](https://twitter.com/defCoding)
 [![](https://img.shields.io/badge/Email-defCoding-informational?style=flat&logo=Gmail&logoColor=EA4335&color=EA4335)](mailto:defcoding@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-cao--kevin-informational?style=flat&logo=LinkedIn&logoColor=0270ad&color=0270ad)](https://linkedin.com/cao-kevin)
 
 &nbsp;
 
 ## :octocat: Github Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=defcoding&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defcoding&langs_count=8&layout=compact&hide=lsl,)](https://github.com/anuraghazra/github-readme-stats)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev-cao&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-cao&langs_count=8&layout=compact&hide=lsl,)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **defCoding/DefCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
